@@ -1,0 +1,1 @@
+I tried recreating the cat command from coreutils in linux using rust, can't seem to figure out how to remove the empty line at the end of each text but that's okay.
